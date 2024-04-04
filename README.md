@@ -2,4 +2,5 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-## Estos cambios son nuevos desde mi repositorio Local
+<<<<<<< HEAD
+## Estos cambios son nuevos desde ambos repos. Local y Remoto
